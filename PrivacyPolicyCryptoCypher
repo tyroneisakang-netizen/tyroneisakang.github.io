@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoCypher - Privacy Policy</title>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #111; }
+        h2 { margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <h1>CryptoCypher Privacy Policy</h1>
+    <p><strong>Last updated:</strong> May 16, 2026</p>
+
+    <p>CryptoCypher ("we", "our", or "us") respects your privacy. This policy explains how we handle information.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We do <strong>not</strong> collect any personal information (name, email, phone, etc.). The app does not require accounts or logins.</p>
+
+    <h2>Data We Access</h2>
+    <p>The app only fetches publicly available data from third-party APIs (prices, news, market data, etc.).</p>
+    <p>When you connect Phantom or Jupiter, we use secure deep links. <strong>Your private keys never enter this app.</strong></p>
+
+    <h2>Third-Party Services</h2>
+    <p>We use public APIs such as CoinGecko, Binance, and others. These services have their own privacy policies.</p>
+
+    <h2>Data Storage</h2>
+    <p>Nothing is sent to our servers. All data is processed on your device.</p>
+
+    <h2>Contact</h2>
+    <p>If you have questions, email: <strong>[put your email here]</strong></p>
+</body>
+</html>
